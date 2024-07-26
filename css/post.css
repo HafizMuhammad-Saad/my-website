@@ -1,0 +1,15 @@
+#post-link{
+    text-decoration: none;
+}
+#post-link:active{
+    /* color: blue; */
+}
+#post-link:visited{
+    color: red;
+}
+#post-link:hover{
+    color: yellow;
+}
+#post-link:{
+    color: red;
+}

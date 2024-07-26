@@ -1,0 +1,39 @@
+body {
+    background-color: antiquewhite;
+}
+td {
+    width: 50px;
+    height: 50px;
+    empty-cells: hide;
+    background-color: pink;
+}
+.color1 {
+    background-color: #F7DF25;
+}
+.color2{
+    background-color: #E96D6D;
+}
+.color3 {
+    background-color: #E1CFE7;
+}
+.color4{
+    background-color: #BFB5DD;
+}
+.color5{
+    background-color: #EFA82C;
+}
+.color6{
+    background-color: #A3CFCF;
+}
+.color7{
+    background-color: #BDDDCF;
+}
+.color8{
+    background-color: #A5DFEF;
+}
+.color9{
+    background-color: #FBF283;
+}
+.color10{
+    background-color: #BFDDA0;
+}
